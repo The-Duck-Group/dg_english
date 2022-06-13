@@ -5,7 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
-
+.zip
+.rar
+.idea/
+.vscode/
+data/*
+d/*
+test.py
 # Distribution / packaging
 .Python
 build/
